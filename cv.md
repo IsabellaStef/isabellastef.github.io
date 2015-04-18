@@ -9,5 +9,5 @@ permalink: /cv/
 ####BSc Environmental Science
 
 
-###Voukolies High School (Lykeion) 
+####Voukolies High School (Lykeion) 
 
