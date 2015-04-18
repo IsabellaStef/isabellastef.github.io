@@ -3,11 +3,11 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-### Education
+## Education
 
-####Univerity Of Portsmouth
-**BSc Environmental Science**
+###Univerity Of Portsmouth
+####BSc Environmental Science
 
 
-####Voukolies High School (Lykeion) 
+###Voukolies High School (Lykeion) 
 
