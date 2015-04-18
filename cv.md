@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Education
 
-###Univerity Of Portsmouth
+###University Of Portsmouth
 ####BSc Environmental Science
 
 
