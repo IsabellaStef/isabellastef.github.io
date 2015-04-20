@@ -9,6 +9,7 @@ Line of text about yourself
 #### University Of Portsmouth
 BSc Environmental Science
 Learned X and Y about W and Z
+Also I did these exciting things
 
 #### Voukolies High School (Lykeion) 
 
