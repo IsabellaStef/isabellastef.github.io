@@ -2,16 +2,14 @@
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
-published: true
 ---
+Line of text about yourself
 
 ## Education
+#### University Of Portsmouth
+BSc Environmental Science
+Learned X and Y about W and Z
 
-###University Of Portsmouth
-####BSc Environmental Science
-*test
-+test
--test
+#### Voukolies High School (Lykeion) 
 
-
-####Voukolies High School (Lykeion)
+I went to school
