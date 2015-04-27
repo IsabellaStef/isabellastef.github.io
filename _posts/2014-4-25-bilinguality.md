@@ -2,7 +2,7 @@
 layout: post
 title: Bilinguality
 ---
-So what is bilinguality? Many people confuse it for the knowledge of two or more langauges, but in fact it is knowledge of both or more languages as if they were your mother tongue a.k.a Simultaneous Acquisition.
+So what is bilinguality? Many people confuse it for the knowledge of two or more langauges, but in fact it's more specific than that, it is knowledge of both or more languages as if they were your mother tongue a.k.a Simultaneous Acquisition.
 This may sound like a great gift to have, and believe me, it is. But at times it can become an issue and a great cause of frustration. Confusion and muddle ups are a regular denominators whilst failure to get your point across is often the biggest issue. But lets start from the beginning.
 
 The following things desrcibed in this text are real life facts that haven't yet been backed up (by myself) with science. This article is written for the pure pleasure of whinging but also to share how great this gift is, how fortunate I am to have it and to encourage those parents that know more than one language to teach their own children, everything, all the linguistics they possess as well as anything else they consider of great importance. Parents are the first teachers and children learn the best when very young. Language is knowledge and knowledge is power but its also opportuntity, opinion, character and one of the best things it offers you is, options. 
