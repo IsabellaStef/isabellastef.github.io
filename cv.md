@@ -10,18 +10,16 @@ Line of text about yourself
 BSc Environmental Science
 I graduated with an Honours Degree of Bachelor of Science, with Lower Second Class Honours in 2013.
 ### Core Subjects
-~Environmental Auditing and Assessment
-~Environmental Science Project (a project of my choosing, whereby I had to research and carry out testing/sampling to prove a theory or to answer a question)
+* Environmental Auditing and Assessment
+* Environmental Science Project (a project of my choosing, whereby I had to research and carry out testing/sampling to prove a theory or to answer a question)
 
 
 ### Optional Subjects
-~Applied Coastal Geomorphology
-~Contaminated Land and Groundwater Management
-~Waste Management and Environmental Pollution
+* Applied Coastal Geomorphology
+* Contaminated Land and Groundwater Management
+* Waste Management and Environmental Pollution
 
 
-
-One of my core third year subjects was Environmental Science Project, a project of my choosing, whereby I had to research and carry out testing/sampling to prove a theory or to answer a question. The four other subjects were, Coastal Geomorphology,  
 
 #### Voukolies High School (Lykeion) 
 
